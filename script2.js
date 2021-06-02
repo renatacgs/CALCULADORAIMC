@@ -1,27 +1,6 @@
-/*function validar(){
+/* @Renata Cristina
 
-    var valor = document.getElementById("numero").value;
-    var nomeValor = document.getElementById("nome").value;
-
-    if(valor.length > 2){
-        alert("Digite dois numeros ou menos!");
-        document.formulario.numero.focus();
-        return false;
-    }else if(nomeValor.length < 3){
-        alert("Digite um nome com mais letras...");
-        document.formulario.nome.focus();
-
-        return false;  
-    }else{
-        alert("Formulado enviado com sucesso!");
-        return true;
-    }
-}
-
-<!----------------------------------->
-@Renata Cristina
-
-TABLE IMC
+TABELA IMC
 Abaixo de 17    Muito abaixo do peso
 Entre 17 e 18,49    Abaido do peso
 Entre 18.5 e 24,99    Peso normal
